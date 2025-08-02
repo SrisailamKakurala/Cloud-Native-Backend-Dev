@@ -50,7 +50,7 @@ Perfect, Sri. Since you prefer **JavaScript**, here’s your **fully comprehensi
 
 ✅ **Write & Deploy a Simple API**:
 
-* Build a basic **CRUD Notes API** using Express + MongoDB
+* Build a basic **CRUD Notes API** using Express + Prisma + PostgreSQL
 * Containerize it using Docker and deploy to **Render** (as baseline)
 
 ---
